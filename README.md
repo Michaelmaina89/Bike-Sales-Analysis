@@ -16,6 +16,7 @@ The goal of this project was to analyze customer demographics and lifestyle fact
 
 ## The Dashboard
 ![Dashboard Screenshot](Screenshots/dashboard_view.png)
+
 *The interactive dashboard allows users to filter data by Region, Education, and Marital Status.*
 
 ## How to View
