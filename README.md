@@ -1,4 +1,4 @@
-##Project Objective
+Project Objective
 The goal of this project was to analyze customer demographics and lifestyle factors to identify key drivers for bike purchases. This data helps in creating targeted marketing strategies for a bike retail business.
 
 ## Data Cleaning Process
